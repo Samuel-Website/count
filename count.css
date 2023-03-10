@@ -1,0 +1,10 @@
+#start{
+  /* border: 2px solid blue; */
+  font-size: 57px;
+  width: 205px;
+  text-align: center;
+  display: block;
+}
+#r, #i ,#d{
+  margin: 5px, 5px, 5px, 5px;
+}
